@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Miraway Launcher</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>None</item>
+        <item>Kiosk</item>
+        <item>Screen</item>
+        <item>Feedback</item>
+        <item>Counter</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+
+    <string-array name="pref_screen_orientation_list_titles">
+        <item>Potrait</item>
+        <item>Landscape</item>
+        <item>Behind</item>
+        <item>Sensor</item>
+
+    </string-array>
+    <string-array name="pref_screen_orientation_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="pref_cache_mode_list_titles">
+        <item>Default</item>
+        <item>Cache else network</item>
+        <item>No cache</item>
+        <item>Cache only</item>
+
+    </string-array>
+    <string-array name="pref_cache_mode_list_values">
+        <item>-1</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+
+    <string name="title_activity_main">Miraway Launcher</string>
+
+
+
+</resources>
